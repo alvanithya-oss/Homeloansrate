@@ -1,7 +1,0 @@
-{
-  "name": "homeloansrate",
-  "compatibility_date": "2026-05-02",
-  "assets": {
-    "directory": "."
-  }
-}
